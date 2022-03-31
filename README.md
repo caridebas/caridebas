@@ -1,6 +1,6 @@
 ### Olá, meu nome é Vitor 👋
-📺 - Trabalho como recepcionista noturno. </br>
-👨🏿‍💻 - Atualmente estudo Desenvolvimento Front-End </br>
+ </br>
+👨🏿‍💻 - Atualmente estudo Desenvolvimento Front-End. </br>
 
 <div>
   
