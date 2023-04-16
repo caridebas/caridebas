@@ -1,6 +1,6 @@
 ### Olá, meu nome é Vitor 👋
  </br>
-👨🏿‍💻 - Atualmente estudo Desenvolvimento Front-End. </br>
+👨🏿‍💻 - Atualmente estudo Desenvolvimento Back-End. </br>
 
 <div>
   
